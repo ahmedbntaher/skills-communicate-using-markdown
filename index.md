@@ -1,5 +1,11 @@
 # H1 Header
 ## h2 header
+```
+npm i
+yarn add stylewindcss
+npm run dev
+symphony serve
+```
 ### h3 header 
 #### h4 header
 ![Image of tree]([https://pngtree.com/freepng/vector-star-icon_4231909.html])
